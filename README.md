@@ -24,6 +24,10 @@ ECS = To deploy my application on Farget
 
 ## Now Go to the ECS service :
 
+Task is similar as Pod 
+Service is similar as Deployment 
+
+
 * Crate IAM Role to building connection Between ECR and ECS Fargate .
 * Create Task Defination to deploy your Image on Farget  [Serverless]
 * You have to provide the information that we usually give in our pod like image,port,env,vCPU,Memory etc
@@ -35,8 +39,12 @@ ECS = To deploy my application on Farget
                         It is used by ECS cluster to cummunicate with the other aws service like ECR to pull the images or providing metric                                     data to cloud watch.
 
   
-* Now Create the cluster in which you define the type Farget and select the Task defination you created
-* 
+* Now Create the cluster in which you define the type Farget and select the Task defination you created 
+* Now you will get public IP of that taskb and you check with IP
+
+  
+
+  
 
 
 
