@@ -4,5 +4,9 @@
 
 ECR = To Store the Docker Images
 
-ECS = To deploy my application 
+ECS = To deploy my application on Farget 
+
+## First you need to clone this project on your machine :
+
+**git cloone**
 
