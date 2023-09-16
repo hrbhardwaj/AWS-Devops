@@ -19,4 +19,9 @@ ECS = To deploy my application on Farget
 
 * Now you Image is available to ECR repo:
 
+<img width="1440" alt="Screenshot 2023-09-16 at 5 01 24 PM" src="https://github.com/hrbhardwaj/AWS-Devops/assets/131919525/0577850f-82e2-4298-a576-a431fe84ea48">
+
+
+
+
 
