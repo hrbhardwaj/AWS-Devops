@@ -29,8 +29,11 @@ ECS = To deploy my application on Farget
 * You have to provide the information that we usually give in our pod like image,port,env,vCPU,Memory etc
 
 
-    Task Role : It is used to give the permmision to your application that can communicate with other service like S3 to send and pull the data 
-    Task Execution Role : It is used by ECS cluster to cummunicate with the other aws service like ECR to pull the images or providing metric data to cloud watch.
+ ##   Task Role : 
+        It is used to give the permmision to your application that can communicate with other service like S3 to send and pull the data
+  
+  ## Task Execution Role : 
+        It is used by ECS cluster to cummunicate with the other aws service like ECR to pull the images or providing metric                               data to cloud watch.
 
   
 * Now Create the cluster in which you define the type Farget and select the Task defination you created
