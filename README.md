@@ -39,8 +39,21 @@ Service is similar as Deployment
                         It is used by ECS cluster to cummunicate with the other aws service like ECR to pull the images or providing metric                                     data to cloud watch.
 
   
-* Now Create the cluster in which you define the type Farget and select the Task defination you created 
-* Now you will get public IP of that taskb and you check with IP
+* Now Create the cluster in which you define the type Farget and select the Task defination you created
+ 
+
+** Now you will get public IP of that task and you check with IP ** 
+
+
+
+<img width="1440" alt="Screenshot 2023-09-16 at 8 18 36 PM" src="https://github.com/hrbhardwaj/AWS-Devops/assets/131919525/15c2bc3d-8ffe-49d0-b7ff-6f3a1d901a4f">
+
+
+
+
+
+
+
 
   
 
